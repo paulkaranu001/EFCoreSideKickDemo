@@ -1,0 +1,6 @@
+@EFCoreSideKickDemo_HostAddress = http://localhost:5270
+
+GET {{EFCoreSideKickDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
